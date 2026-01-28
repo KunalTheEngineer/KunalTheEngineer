@@ -5,4 +5,6 @@
 📍 Pune, India  
 🎓 Information Technology Student 
 
+## 🛠 Tech Stack
+
 
