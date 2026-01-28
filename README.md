@@ -1,10 +1,10 @@
-## 👋 Hi, I’m Kunal Thakare
+<center>## 👋 Hi, I’m Kunal Thakare
 
 ### Aspiring Software Engineer | Backend & Systems Enthusiast
 
 📍 Pune, India  
 🎓 Information Technology Student 
-
+</center>
 ## 🛠 Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
