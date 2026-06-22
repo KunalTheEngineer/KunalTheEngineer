@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kunal Thakare
 
-### Aspiring Software Engineer | Backend & Systems Enthusiast
+### Aspiring Software Engineer focused on Backend Development, Trading Systems, and High-Performance C++ Applications. | Backend & Systems Enthusiast
 
 📍 Pune, India  
 🎓 Information Technology Student
