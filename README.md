@@ -43,12 +43,6 @@ OOP | Multithreading | STL | REST APIs | System Design | SDLC
 - Multithreaded Order Processing
 - Qt GUI Dashboard
 
-### 🎟 Online Book Store API
-- ASP.NET Core Web API
-- SQL Server Integration
-- CRUD Operations
-- Repository Pattern
-
 ### 🛡 Cyberbullying Detection Using AI
 - Flask Backend
 - NLP-Based Text Analysis
