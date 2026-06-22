@@ -1,20 +1,72 @@
-## 👋 Hi, I’m Kunal Thakare
+# 👋 Hi, I'm Kunal Thakare
 
 ### Aspiring Software Engineer | Backend & Systems Enthusiast
 
 📍 Pune, India  
-🎓 Information Technology Student 
+🎓 Information Technology Student
+
+---
+
+## 🚀 About Me
+
+- Passionate about Backend Development and System Design
+- Building real-world projects using C++, C#, .NET, SQL Server, and Qt
+- Interested in Trading Systems, Order Matching Engines, and Scalable Backend Applications
+- Currently learning STL, Data Structures & Algorithms, and Multithreading
+- Exploring Low-Latency Systems and Financial Technology
+
+---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
-</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Languages
+C | C++ | C# | SQL
 
+### Frameworks & Tools
+.NET Core | ASP.NET Core | Qt | Git | GitHub | Postman | Swagger
+
+### Databases
+SQL Server | Stored Procedures | Query Optimization
+
+### Concepts
+OOP | Multithreading | STL | REST APIs | System Design | SDLC
+
+---
+
+## 💼 Featured Projects
+
+### 📈 Real-Time Trading Engine
+- FIFO Order Matching Engine
+- Market Orders & Limit Orders
+- Market Depth Visualization
+- Trade History Tracking
+- Multithreaded Order Processing
+- Qt GUI Dashboard
+
+### 🎟 Online Book Store API
+- ASP.NET Core Web API
+- SQL Server Integration
+- CRUD Operations
+- Repository Pattern
+
+### 🛡 Cyberbullying Detection Using AI
+- Flask Backend
+- NLP-Based Text Analysis
+- Automated Comment Moderation
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced STL
+- Data Structures & Algorithms
+- Multithreading & Concurrency
+- Low-Latency Trading Systems
+- Backend Scalability
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kunal-thakare-294011241/
+- GitHub: https://github.com/KunalTheEngineer
